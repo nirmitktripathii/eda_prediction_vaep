@@ -10,6 +10,9 @@ Along with this, understanding attacking style of play of different teams using 
 Also along with this we have created a GUI wherein we display the goal plots in which all the previous actions leading to a goal are displayed and top 10 players, of each league, according to VAEP rankings are also displayed.
 
 
+For more information read the Project report document file.
+
+
 
 
 
