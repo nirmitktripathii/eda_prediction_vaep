@@ -1,0 +1,37 @@
+# EDA_Prediction_VAEP
+
+Explanatory Data Analysis, Preparation of shot maps, pass networks and Predictive model for top leagues in European football along with preparation of VAEP model scoring and player ranking with GUI implementation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
